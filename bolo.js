@@ -125,5 +125,6 @@ Deixe a cobertura esfriar um pouco antes de espalhar sobre o bolo. Se for usar e
 let primeiroPasso = 'Escolha uma massa para o bolo e siga a receita: \n'
 let segundoPasso = 'Escolha um recheio para o bolo e siga a receita: \n'
 let terceiroPasso = 'Agora siga a recita da cobertura do bolo: \n'
+let quartoPasso = 'Monte o seu bolo e sirva! '
 
-console.log(primeiroPasso, receitaMassa1, segundoPasso, receitaRecheio2, terceiroPasso, receitaCobertura)
+console.log(primeiroPasso, receitaMassa1, segundoPasso, receitaRecheio2, terceiroPasso, receitaCobertura, quartoPasso)
