@@ -16,3 +16,10 @@ RF4 -->       | AUTOMATIZAÇÃO DE LEMBRETES:                                   
 RF4 - 01      | automatizar o envio de lembretes via e-mail ou WhatsApp para os usuários avisando sobre as datas de vencimento dos empréstimos dos livros | média
 RNF1 -->      | DESEMPENHO DO SISTEMA                                                                                                                     | alta
 RNF1 - 01     | garantir que o sistema tenha um bom desempenho em dispositivos móveis                                                                     | alta
+RN1 -->       | REGRAS DE NEGÓCIO                                                                                                                         | alta
+RN1 - 01      | cada usuário pode fazer o empréstimo de no máximo 3 livros por vez                                                                        | alta
+RN1 - 02      | o tempo máximo de cada empréstimo deverá ser de 15 dias                                                                                   | alta
+RN1 - 03      | caso o usuário atrase a devolução do livro, deverá ser cobrada uma multa de R$0,50 por dia                                                | alta
+RN1 - 04      | o sistema deverá oferecer e auntenticar formas de pagamento para as multas                                                                | alta
+RN1 - 05      | caso o usuário tenha um livro em atraso ou uma multa em aberto ele não poderá pegar outro livro                                           | alta
+
